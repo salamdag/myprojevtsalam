@@ -1,2 +1,0 @@
-# myprojevtsalam
-my project
